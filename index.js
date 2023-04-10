@@ -1,12 +1,11 @@
 // TODO: Include packages needed for this application
 // TODO: Create an array of questions for user input
-
 const inquirer = require('inquirer');
 const fs = require('fs');
 const generateMarkdown = require('./utils/generateMarkdown');
 const { type } = require('os');
-//Questions input for README generation
 
+//Questions input for README generation
 const questions = [
     {
         type: 'input',
@@ -19,7 +18,7 @@ const questions = [
         name: 'github',
       },
       {
-        //List choices for Licenses
+//List choices for Licenses
         type: 'list',
         message: 'Which license badge would you like?',
         name:'license',
