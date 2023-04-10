@@ -90,7 +90,6 @@ function generateMarkdown(data) {
   ## Email
   ${data.email}
  
-
 `;
 }
 

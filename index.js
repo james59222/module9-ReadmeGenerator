@@ -1,11 +1,12 @@
 // TODO: Include packages needed for this application
-
 // TODO: Create an array of questions for user input
+
 const inquirer = require('inquirer');
 const fs = require('fs');
 const generateMarkdown = require('./utils/generateMarkdown');
 const { type } = require('os');
-//Questions input for README
+//Questions input for README generation
+
 const questions = [
     {
         type: 'input',
@@ -54,10 +55,6 @@ const questions = [
           message: 'What is your email',
           name: 'email'  
         },
-
-
-
-
 ];
 
 // TODO: Create a function to write README file
