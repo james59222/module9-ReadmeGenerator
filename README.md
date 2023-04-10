@@ -1,3 +1,6 @@
-# Professional README Generator Starter Code
-
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+Module 9 Challenge README generator
+Worked with tutor and TA office hours.
+Created README generator with node js.
+Runs in nodejs so must be installed.
+github: https://github.com/james59222/module9-ReadmeGenerator.git
+github live:
