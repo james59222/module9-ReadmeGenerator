@@ -1,5 +1,5 @@
 # James Pierce
-  undefined
+  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
   ## Table of Contents
 
 1. [Github](#github) 
@@ -15,20 +15,20 @@
   ## Github
  Check out my github at https://github.com/james59222
   ## License
-  
-  
+  Application licensed by Mozilla
+  https://opensource.org/licenses/MPL-2.0
   ## Installation
-  fsadfsdf
+  use nodejs
   ## Usage
-  fsadfasdf
+  generate readme files
   ## Contributions
-  dfsafasf
+  james pierce
   ## Features
-  dfasfasfasd
+  no new features yet
   ## Tests
-  dfsafasfdas
+  self test and debugging
   ## Questions
-  fdasfdasfd
+  none at this time
 
   I can be contacted at james59222@gmail.com
   ## Email
