@@ -5,5 +5,5 @@ Runs in nodejs so must be installed.
 Created README can be found in utils folder.
 github: https://github.com/james59222/module9-ReadmeGenerator.git
 github live: N/A
-link to video: 
+link to video: https://drive.google.com/file/d/1NUVluLNLtGoOhbENoGUR5Ieo7gIzp9aM/view
 screenshot ![readmeGenerator](https://user-images.githubusercontent.com/65635308/231028685-4b8f1983-017c-4086-b049-64032a74a0a9.png)
