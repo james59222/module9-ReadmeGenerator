@@ -24,6 +24,7 @@ const questions = [
         name:'license',
         choices: ['apache','boost','mozilla','MIT']
       },
+//Rest of Questions
         {
             type:'input',
             message: 'Please enter installation instructions',

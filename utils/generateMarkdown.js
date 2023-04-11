@@ -71,7 +71,6 @@ function generateMarkdown(data) {
 7. [Questions](#questions)  
 8. [Email](#email) 
   
-
   ## Github
  Check out my github at https://github.com/${data.github}
   ## License
