@@ -38,7 +38,7 @@ const questions = [
         {
             type:'input',
             message: 'Please eneter contributor information',
-            name:'contribute',
+            name:'contributions',
         },
         {
             type:'input',
