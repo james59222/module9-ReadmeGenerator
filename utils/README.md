@@ -1,5 +1,5 @@
 # james pierce
-  [![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Table of Contents
 
 1. [Github](#github) 
@@ -12,20 +12,20 @@
 8. [Email](#email) 
   
   ## Github
- Check out my github at https://github.com/james592222
+ Check out my github at https://github.com/james59222
   ## License
-  Application licensed by Boost
-  https://www.boost.org/LICENSE_1_0.txt
+  Application licensed by MIT
+  https://opensource.org/licenses/MIT
   ## Installation
-  dfsafasfsadf
+  fdsafafdas
   ## Usage
-  fdsafasfasfasf
+  fdsadfasfdas
   ## Contributions
-  fdsfsafas
+  fdsafasdfas
   ## Tests
-  fdsafsafas
+  fdsafasfasdf
   ## Questions
-  fsdadfsafasd
+  dfsafasfas
 
   I can be contacted at james59222@gmail.com
   ## Email

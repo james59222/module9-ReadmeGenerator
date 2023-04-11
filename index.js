@@ -37,8 +37,13 @@ const questions = [
         },
         {
             type:'input',
-            message: 'Please eneter contributor information',
+            message: 'Please enter contributor information',
             name:'contributions',
+        },
+        {
+            type:'input',
+            message: 'Please enter features information',
+            name:'features',
         },
         {
             type:'input',

@@ -67,9 +67,10 @@ function generateMarkdown(data) {
 3. [Installation](#installation) 
 4. [Usage](#usage) 
 5. [Contributions](#contributions)
-6. [Tests](#tests) 
-7. [Questions](#questions)  
-8. [Email](#email) 
+6. [Features](#features)
+7. [Tests](#tests) 
+8. [Questions](#questions)  
+9. [Email](#email) 
   
   ## Github
  Check out my github at https://github.com/${data.github}
@@ -82,6 +83,8 @@ function generateMarkdown(data) {
   ${data.usage}
   ## Contributions
   ${data.contributions}
+  ## Features
+  ${data.features}
   ## Tests
   ${data.tests}
   ## Questions
