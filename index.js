@@ -22,7 +22,7 @@ const questions = [
         type: 'list',
         message: 'Which license badge would you like?',
         name:'license',
-        choices: ['apache','boost','mozilla','MIT']
+        choices: ['Apache','Boost','Mozilla','MIT']
       },
 //Rest of Questions
         {
