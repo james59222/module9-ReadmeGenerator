@@ -1,5 +1,5 @@
 # James Pierce
-  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+  [![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
   ## Table of Contents
 
 1. [Github](#github) 
@@ -15,18 +15,18 @@
   ## Github
  Check out my github at https://github.com/james59222
   ## License
-  Application licensed by Mozilla
-  https://opensource.org/licenses/MPL-2.0
+  Application licensed by Boost
+  https://www.boost.org/LICENSE_1_0.txt
   ## Installation
-  use nodejs
+  use nodejs to run program
   ## Usage
-  generate readme files
+  use nodejs to run program
   ## Contributions
-  james pierce
+  James Pierce
   ## Features
-  no new features yet
+  README generator
   ## Tests
-  self test and debugging
+  self test for debugging
   ## Questions
   none at this time
 
